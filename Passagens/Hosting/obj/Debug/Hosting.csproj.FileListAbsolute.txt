@@ -1,0 +1,8 @@
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\Hosting\bin\Debug\Hosting.exe.config
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\Hosting\bin\Debug\Hosting.exe
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\Hosting\bin\Debug\Hosting.pdb
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\Hosting\bin\Debug\Passagens.dll
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\Hosting\bin\Debug\Passagens.pdb
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\Hosting\obj\Debug\Hosting.exe
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\Hosting\obj\Debug\Hosting.pdb

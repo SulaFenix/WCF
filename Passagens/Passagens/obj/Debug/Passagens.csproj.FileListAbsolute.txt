@@ -1,0 +1,6 @@
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\Passagens\bin\Debug\Passagens.dll.config
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\Passagens\bin\Debug\Passagens.dll
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\Passagens\bin\Debug\Passagens.pdb
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\Passagens\obj\Debug\Passagens.csprojResolveAssemblyReference.cache
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\Passagens\obj\Debug\Passagens.dll
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\Passagens\obj\Debug\Passagens.pdb
