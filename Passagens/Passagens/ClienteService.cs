@@ -15,11 +15,22 @@ namespace Passagens
             return dao.Buscar(nome);
         }
 
-        public void Add(Cliente c)
+        public bool Add(string nome, string cpf)
         {
+            Cliente c = new Cliente();
+            c.Nome = nome;
+            c.Cpf = cpf;
+
             ClienteDao dao = new ClienteDao();
 
             dao.Add(c);
+
+            return true;
+        }
+
+        public List<Cliente> getClientes()
+        {
+            return ClienteDao.clientes;
         }
     }
 }

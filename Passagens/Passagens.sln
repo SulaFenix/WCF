@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passagens", "Passagens\Pass
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hosting", "Hosting\Hosting.csproj", "{8871F50C-A431-452E-95BA-ED61105EC67D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumindoServico", "ConsumindoServico\ConsumindoServico.csproj", "{D47CC7B3-20E0-4DC6-879F-D46A4C795FD1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DF4B07CD-D44F-48A4-9F90-2447DB1F710E} = {DF4B07CD-D44F-48A4-9F90-2447DB1F710E}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +26,10 @@ Global
 		{8871F50C-A431-452E-95BA-ED61105EC67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8871F50C-A431-452E-95BA-ED61105EC67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8871F50C-A431-452E-95BA-ED61105EC67D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47CC7B3-20E0-4DC6-879F-D46A4C795FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47CC7B3-20E0-4DC6-879F-D46A4C795FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47CC7B3-20E0-4DC6-879F-D46A4C795FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47CC7B3-20E0-4DC6-879F-D46A4C795FD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

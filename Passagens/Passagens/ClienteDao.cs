@@ -10,7 +10,7 @@ namespace Passagens
     {
         //private List<Cliente> clientes = new List<Cliente>(); -> Para não perder ela a cada requisição, foi acrescentado o static
 
-        private static List<Cliente> clientes = new List<Cliente>();
+        public static List<Cliente> clientes = new List<Cliente>();
 
         public void Add (Cliente c)
         {

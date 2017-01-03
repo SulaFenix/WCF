@@ -1,0 +1,9 @@
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\ConsumindoServico\bin\Debug\ConsumindoServico.exe.config
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\ConsumindoServico\bin\Debug\ConsumindoServico.exe
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\ConsumindoServico\bin\Debug\ConsumindoServico.pdb
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.csprojResolveAssemblyReference.cache
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.Form1.resources
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.Properties.Resources.resources
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.csproj.GenerateResource.Cache
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.exe
+C:\Users\Suellen\Documents\Alura\WCF\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.pdb
